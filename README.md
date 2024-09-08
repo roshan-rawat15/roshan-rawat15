@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/roshan kumar rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/roshan-rawat15/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan kumar rawat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roshan-rawat15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan kumar rawat" height="30" width="40" /></a>
 <a href="https://fb.com/roshan kumar rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roshan kumar rawat" height="30" width="40" /></a>
 <a href="https://instagram.com/roshan_kr5292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roshan_kr5292" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/roshankumarrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roshankumarrawat" height="30" width="40" /></a>
