@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshan Kumar Rawat</h1>
 <h3 align="center">I'm a third-year BCA student with a strong foundation in full-stack web development and proficiency in programming languages like C++, Java, and JavaScript. Passionate about creating innovative solutions and eager to apply my skills in real-world projects.</h3>
 
-<img src="https://static.vecteezy.com/system/resources/previews/015/952/352/non_2x/wed-developer-and-programmer-coding-on-augmented-reality-screen-premium-vector.jpg" alt="">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-rawat15&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-rawat15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan-rawat15" alt="roshan-rawat15" /></a> </p>
