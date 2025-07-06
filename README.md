@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Roshan Kumar Rawat</h1>
-<h3 align="center">I'm a Final-year BCA student with a strong foundation in full-stack web development and proficiency in programming languages like C++, Java, and JavaScript. Passionate about creating innovative solutions and eager to apply my skills in real-world projects.</h3>
+🚀 Full-Stack Developer | BCA Graduate | Passionate about React.js & Next.js
+
+
+I am a BCA graduate with expertise in **React.js, Next.js, React Native, C++, Java, Node.js, Express.js**, and **MongoDB**. Passionate about building scalable and efficient applications, contributing to open-source projects, and using technology to create meaningful real-world solutions.
+
+
+Currently seeking **Full-Stack Developer** or **Software Engineer** opportunities where I can work on impactful projects, grow with a collaborative team, and continue learning. If you come across any suitable opportunities, feel free to reach out!
+
 
 <hr>
 
